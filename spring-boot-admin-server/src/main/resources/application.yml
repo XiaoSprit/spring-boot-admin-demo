@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: admin-server
+  security:
+    user:
+      name: "admin"
+      password: "admin"
+server:
+  port: 7911
+management:
+  endpoint:
+    shutdown.enabled: true
+    health.show-details: always
+  endpoints.web.exposure.include: '*'
