@@ -150,6 +150,7 @@ public class SecurityPermitAllConfig extends WebSecurityConfigurerAdapter {
 
 ## 参考链接
 https://codecentric.github.io/spring-boot-admin/2.1.6/
+
 https://www.liumapp.com/articles/2019/08/03/1564813578454.html
 
 
